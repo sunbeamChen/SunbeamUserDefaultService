@@ -1,0 +1,6 @@
+framework module SunbeamUserDefaultService {
+  umbrella header "SunbeamUserDefaultService-umbrella.h"
+
+  export *
+  module * { export * }
+}

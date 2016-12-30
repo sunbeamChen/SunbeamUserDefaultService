@@ -1,0 +1,6 @@
+framework module Pods_SunbeamUserDefaultService_Example {
+  umbrella header "Pods-SunbeamUserDefaultService_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SunbeamUserDefaultService (0.1.1)
+
+DEPENDENCIES:
+  - SunbeamUserDefaultService (from `../`)
+
+EXTERNAL SOURCES:
+  SunbeamUserDefaultService:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SunbeamUserDefaultService: 219615ec67b7d474fb5e30e2bb230be5f779e870
+
+PODFILE CHECKSUM: 8ed3b3bbd6ada5f50d2b2835d0299cce836561a0
+
+COCOAPODS: 1.0.1
