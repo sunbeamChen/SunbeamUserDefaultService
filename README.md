@@ -5,11 +5,17 @@
 [![License](https://img.shields.io/cocoapods/l/SunbeamUserDefaultService.svg?style=flat)](http://cocoapods.org/pods/SunbeamUserDefaultService)
 [![Platform](https://img.shields.io/cocoapods/p/SunbeamUserDefaultService.svg?style=flat)](http://cocoapods.org/pods/SunbeamUserDefaultService)
 
+## Description
+
+SunbeamUserDefautService is an local data save service base on NSUserDefault.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+iOS > 7.0
 
 ## Installation
 

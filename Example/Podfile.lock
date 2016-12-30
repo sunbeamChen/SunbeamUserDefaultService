@@ -1,5 +1,5 @@
 PODS:
-  - SunbeamUserDefaultService (0.1.1)
+  - SunbeamUserDefaultService (0.1.2)
 
 DEPENDENCIES:
   - SunbeamUserDefaultService (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SunbeamUserDefaultService: 219615ec67b7d474fb5e30e2bb230be5f779e870
+  SunbeamUserDefaultService: 96d98a98ba4c574c1fb1acac9d5f234eb28c4c78
 
 PODFILE CHECKSUM: 8ed3b3bbd6ada5f50d2b2835d0299cce836561a0
 

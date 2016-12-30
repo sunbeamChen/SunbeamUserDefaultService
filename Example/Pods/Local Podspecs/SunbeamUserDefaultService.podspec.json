@@ -1,6 +1,6 @@
 {
   "name": "SunbeamUserDefaultService",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "SunbeamUserDefaultService is an local data save service base on NSUserDefault.",
   "homepage": "https://github.com/sunbeamChen/SunbeamUserDefaultService",
   "license": {
@@ -12,11 +12,14 @@
   },
   "source": {
     "git": "https://github.com/sunbeamChen/SunbeamUserDefaultService.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "7.0"
   },
   "source_files": "SunbeamUserDefaultService/Classes/**/*",
-  "public_header_files": "Pod/Classes/**/*.h"
+  "public_header_files": [
+    "SunbeamUserDefaultService/Classes/SunbeamUserDefaultService.h",
+    "SunbeamUserDefaultService/Classes/SUDService.h"
+  ]
 }
