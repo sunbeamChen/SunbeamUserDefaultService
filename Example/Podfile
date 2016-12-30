@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SunbeamUserDefaultService_Example' do
+  pod 'SunbeamUserDefaultService', :path => '../'
+
+  target 'SunbeamUserDefaultService_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
