@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SunbeamUserDefaultService'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'SunbeamUserDefaultService is an local data save service base on NSUserDefault.'
   s.homepage         = 'https://github.com/sunbeamChen/SunbeamUserDefaultService'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
