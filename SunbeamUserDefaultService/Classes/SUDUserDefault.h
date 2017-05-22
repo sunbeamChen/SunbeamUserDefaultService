@@ -20,7 +20,7 @@
 /**
  存储
 
- @param Object NSString, NSData, NSNumber, NSDate, NSArray, and NSDictionary
+ @param object NSString, NSData, NSNumber, NSDate, NSArray, and NSDictionary
  @param identifier NSString key
  */
 - (BOOL) setUserDefault:(id) object identifier:(NSString *) identifier;
