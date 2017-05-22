@@ -35,6 +35,9 @@
 {
     if (self = [super init]) {
         [self initSUDUserDefaultStore];
+#ifdef DEBUG
+        NSLog(@"\n======================\nsunbeam userDefault service(https://github.com/sunbeamChen/SunbeamUserDefaultService) version is %@\n======================", SUNBEAM_USER_DEFAULTS_SERVICE_VERSION);
+#endif
     }
     
     return self;
